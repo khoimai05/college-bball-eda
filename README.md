@@ -1,2 +1,2 @@
-# college-bball-eda
-Exploring college basketabll over the past decade
+# COLLEGE BASKETBALL!!!
+Exploring college basketball over the past decade
